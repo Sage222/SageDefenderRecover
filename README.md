@@ -3,7 +3,7 @@ Python Script to assist in speedy recovery and exculsions of Defender Quarantine
 
 Run "Cmd" as Admin
 Laucnh the python script.  Launches a nice GUI. 
-Choose the files from Quarantine that which you recover.  They will be placed in a "Recovered Folder" on your Desktop.
+Choose the files from Quarantine that which you recover.  They will be placed in a "Recovered" folder on your Desktop and adds an exclusion automatically to prevent it from being detected again.
 
 PreReqs:
 tkinter
